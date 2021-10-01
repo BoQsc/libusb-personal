@@ -1,8 +1,8 @@
 # libusb-personal
 
-Install MINGW64
-Copy libusb .h file into MINGW include folder
-Copy .a into MINGW lib folder
+Install MINGW64  
+Copy libusb .h file into MINGW include folder  
+Copy .a into MINGW lib folder    
 
 
 ```
